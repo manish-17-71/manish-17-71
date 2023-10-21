@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @manish-17-71
+- 👀 I’m interested in learning game development
+- 🌱 I’m currently learning python
+- 📫 I plan to learnn c++ in future
